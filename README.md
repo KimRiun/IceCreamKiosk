@@ -144,4 +144,4 @@ If you click on the image below, it will be transferred to YouTube.
 ## 시연
 아래 이미지를 클릭하면 유튜브 영상으로 넘어간다.
 
-{% include video id="iJtrl_2z5_A&ab_channel=RiunKim" provider="youtube" %}
+https://user-images.githubusercontent.com/56223389/125695485-81257b9e-4251-46e9-b01c-9f575676c6ae.mp4
