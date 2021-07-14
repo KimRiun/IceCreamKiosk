@@ -55,8 +55,9 @@ The icream folder is located in the same location as the icecream_kiosk_package.
 - Press the remove button under the shopping basket.
 
 6) Delete all menus
+https://youtu.be/iJtrl_2z5_A
 
-- Press the reset button under the shopping basket.
+https://user-images.githubusercontent.com/56223389/125695485-81257b9e-4251-46e9-b01c-9f575676c6ae.mp4
 
 ##Payment
 
@@ -142,6 +143,6 @@ If you click on the image below, it will be transferred to YouTube.
 
 
 ## 시연
-아래 이미지를 클릭하면 유튜브 영상으로 넘어간다.
+https://youtu.be/iJtrl_2z5_A
 
 https://user-images.githubusercontent.com/56223389/125695485-81257b9e-4251-46e9-b01c-9f575676c6ae.mp4
