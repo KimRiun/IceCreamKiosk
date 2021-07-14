@@ -1,7 +1,7 @@
 # IceCreamKiosk
 <img src = "https://user-images.githubusercontent.com/56223389/125689365-6faa7d4e-3420-4330-bf2c-37bf2f2bd0fc.png" width="70%" height="70%">
 
-#1. Project name
+# 1. Project name
 ## Unmanned Ice Cream Discount Store Kiosk
 
 You can choose ice cream from the kiosk and pay for it.
@@ -10,7 +10,7 @@ Only the parts visible to the customer are implemented.
 
 Functionality for managers is not implemented.
 
-#2. Project Information
+# 2. Project Information
 
 1. Last Modified Date
 
