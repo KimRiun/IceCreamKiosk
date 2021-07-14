@@ -1,6 +1,7 @@
 # IceCreamKiosk
 ![iceCreamKiosk](https://user-images.githubusercontent.com/56223389/125689365-6faa7d4e-3420-4330-bf2c-37bf2f2bd0fc.png){: width="50%" height = "50%"}
-
+<img src = "https://user-images.githubusercontent.com/56223389/125689365-6faa7d4e-3420-4330-bf2c-37bf2f2bd0fc.png">
+<img src = "https://user-images.githubusercontent.com/56223389/125689365-6faa7d4e-3420-4330-bf2c-37bf2f2bd0fc.png" width="50%" height="50%">
 # 1. 프로젝트 명
 
 ## 무인 아이스크림 할인점 키오스크
