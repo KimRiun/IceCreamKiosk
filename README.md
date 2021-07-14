@@ -71,4 +71,4 @@
 
 ## 시연 
 
-[https://s3-us-west-2.amazonaws.com/secure.notion-static.com/460e0a19-d248-4732-826d-ffa796f09839/_.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/460e0a19-d248-4732-826d-ffa796f09839/_.mp4)
+https://youtu.be/xTUzaZP9IK4
