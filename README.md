@@ -143,7 +143,5 @@ If you click on the image below, it will be transferred to YouTube.
 
 ## 시연
 아래 이미지를 클릭하면 유튜브 영상으로 넘어간다.
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
 
-https://youtu.be/iJtrl_2z5_A
 {% include video id="iJtrl_2z5_A&ab_channel=RiunKim" provider="youtube" %}
