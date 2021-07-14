@@ -1,6 +1,78 @@
 # IceCreamKiosk
 <img src = "https://user-images.githubusercontent.com/56223389/125689365-6faa7d4e-3420-4330-bf2c-37bf2f2bd0fc.png" width="70%" height="70%">
 
+#1. Project name
+## Unmanned Ice Cream Discount Store Kiosk
+
+You can choose ice cream from the kiosk and pay for it.
+
+Only the parts visible to the customer are implemented.
+
+Functionality for managers is not implemented.
+
+#2. Project Information
+
+1. Last Modified Date
+
+2021-07-15
+
+2. Installation Environment
+
+Android Studio 4.1.1
+
+3. Language of Use
+
+Java
+
+4. How to Use
+
+Run IceCreamKioskMain.java file.
+
+The icream folder is located in the same location as the icecream_kiosk_package.
+
+5. Features
+
+## Menu selection and quantity adjustment
+
+1) You can change the type of ice cream (classification) by clicking the tab.
+
+2) Add Menu
+
+- Click on the menu displayed under the tab and it will be added to the shopping cart on the right.
+
+3) Increase Menu Quantity
+
+- Click on the menu displayed under the tab to increase the number of clicks.
+
+4) Reduce menu quantity
+
+- First, click on the menu that you want to reduce the quantity in your shopping cart.
+- Press the reduce button under the shopping basket.
+
+5) Delete Menu
+
+- First, click the menu you want to delete from your shopping cart.
+- Press the remove button under the shopping basket.
+
+6) Delete all menus
+
+- Press the reset button under the shopping basket.
+
+##Payment
+
+1) Click the payment button.
+
+2) Press the ok button to complete the payment.
+
+3) Press the cancel button to return to the previous purchase status.
+
+4) If you do not press the ok or cancel button for 5 seconds, the payment will be canceled and the shopping basket will be initialized.
+
+
+## Demonstration
+If you click on the image below, it will be transferred to YouTube.
+
+
 # 1. 프로젝트 명
 ## 무인 아이스크림 할인점 키오스크
 
@@ -70,8 +142,8 @@
 
 
 ## 시연
-<html>
-    <body>
-        <iframe width="953" height="536" src="https://www.youtube.com/embed/iJtrl_2z5_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </body>
-</html>
+아래 이미지를 클릭하면 유튜브 영상으로 넘어간다.
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+
+https://youtu.be/iJtrl_2z5_A
+{% include video id="iJtrl_2z5_A&ab_channel=RiunKim" provider="youtube" %}
