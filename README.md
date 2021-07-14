@@ -69,9 +69,8 @@ The icream folder is located in the same location as the icecream_kiosk_package.
 
 
 ## Demonstration
-https://youtu.be/iJtrl_2z5_A
-
-https://user-images.githubusercontent.com/56223389/125695485-81257b9e-4251-46e9-b01c-9f575676c6ae.mp4
+Click below image to watch video! <br><br>
+[![Go to see Source Program](http://img.youtube.com/vi/iJtrl_2z5_A/0.jpg)](https://youtu.be/iJtrl_2z5_A)
 
 # 1. 프로젝트 명
 ## 무인 아이스크림 할인점 키오스크
@@ -142,9 +141,7 @@ https://user-images.githubusercontent.com/56223389/125695485-81257b9e-4251-46e9-
 
 
 ## 시연
-https://youtu.be/iJtrl_2z5_A
 
-https://user-images.githubusercontent.com/56223389/125695485-81257b9e-4251-46e9-b01c-9f575676c6ae.mp4
 
 
 Click below image to watch video! <br><br>
