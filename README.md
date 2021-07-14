@@ -55,9 +55,7 @@ The icream folder is located in the same location as the icecream_kiosk_package.
 - Press the remove button under the shopping basket.
 
 6) Delete all menus
-https://youtu.be/iJtrl_2z5_A
-
-https://user-images.githubusercontent.com/56223389/125695485-81257b9e-4251-46e9-b01c-9f575676c6ae.mp4
+- Press the reset button under the shopping basket.
 
 ##Payment
 
@@ -71,8 +69,9 @@ https://user-images.githubusercontent.com/56223389/125695485-81257b9e-4251-46e9-
 
 
 ## Demonstration
-If you click on the image below, it will be transferred to YouTube.
+https://youtu.be/iJtrl_2z5_A
 
+https://user-images.githubusercontent.com/56223389/125695485-81257b9e-4251-46e9-b01c-9f575676c6ae.mp4
 
 # 1. 프로젝트 명
 ## 무인 아이스크림 할인점 키오스크
