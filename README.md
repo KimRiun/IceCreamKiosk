@@ -57,7 +57,7 @@ The icream folder is located in the same location as the icecream_kiosk_package.
 6) Delete all menus
 - Press the reset button under the shopping basket.
 
-##Payment
+## Payment
 
 1) Click the payment button.
 
