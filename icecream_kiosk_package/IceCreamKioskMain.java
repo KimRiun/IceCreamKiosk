@@ -5,5 +5,6 @@ public class IceCreamKioskMain {
     {
         // IceCreamKiosk 객체 생성
         IceCreamKiosk kiosk = new IceCreamKiosk();
+        
     }
 }
