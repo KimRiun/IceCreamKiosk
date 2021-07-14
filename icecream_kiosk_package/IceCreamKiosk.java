@@ -80,7 +80,6 @@ public class IceCreamKiosk extends JFrame{
             add(orderPanel);
 
 
-
         }
         catch (Exception e){
             e.printStackTrace();
