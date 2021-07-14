@@ -30,8 +30,8 @@ public class TabPanel extends JPanel {
     // 메뉴 버튼
     private JButton[][] menuButton = new JButton[tabTitle.length][];
     // 버튼 이미지 경로
-    private String imgPath = "C:/Users/sue11/Images/icecream/";
-//    private String imgPath = "./icecream/";
+
+    private String imgPath = "../icecream/";
     // 이미지 파일명
     private String[][] imgName = new String[tabTitle.length][];
 
