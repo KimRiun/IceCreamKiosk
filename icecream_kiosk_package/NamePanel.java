@@ -1,4 +1,4 @@
-package com.example.lib.oop_package.icecream_kiosk_package;
+package icecream_kiosk_package;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
