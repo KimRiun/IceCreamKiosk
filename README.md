@@ -1,5 +1,5 @@
 # IceCreamKiosk
-![![image](https://user-images.githubusercontent.com/56223389/125689148-0956cb41-c353-4a09-8e29-a240bd356b82.png)](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c90da7f6-c4ca-4d58-b33d-b5f3b8cf5862/Untitled.png)
+![iceCreamKiosk](https://user-images.githubusercontent.com/56223389/125689365-6faa7d4e-3420-4330-bf2c-37bf2f2bd0fc.png)
 
 # 1. 프로젝트 명
 
