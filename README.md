@@ -1,7 +1,7 @@
 # IceCreamKiosk
 <img src = "https://user-images.githubusercontent.com/56223389/125689365-6faa7d4e-3420-4330-bf2c-37bf2f2bd0fc.png" width="70%" height="70%">
-# 1. 프로젝트 명
 
+# 1. 프로젝트 명
 ## 무인 아이스크림 할인점 키오스크
 
 아이스크림을 키오스크에서 골라서 계산할 수 있다.
@@ -68,6 +68,7 @@
 
 4) 5초 동안 ok 또는 cancel 버튼을 누르지 않으면 결제가 취소되며 장바구니가 초기화된다.
 
-6. 시연 영상
+
+## 시연 
 
 [https://s3-us-west-2.amazonaws.com/secure.notion-static.com/460e0a19-d248-4732-826d-ffa796f09839/_.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/460e0a19-d248-4732-826d-ffa796f09839/_.mp4)
