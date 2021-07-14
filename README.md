@@ -69,7 +69,5 @@
 4) 5초 동안 ok 또는 cancel 버튼을 누르지 않으면 결제가 취소되며 장바구니가 초기화된다.
 
 
-## 시연 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xTUzaZP9IK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+## 시연
+<iframe width="891" height="591" src="https://www.youtube.com/embed/xTUzaZP9IK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
