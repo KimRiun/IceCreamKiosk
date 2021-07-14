@@ -69,7 +69,7 @@ The icream folder is located in the same location as the icecream_kiosk_package.
 
 
 ## Demonstration
-Click below image to watch video! <br><br>
+Click below image to watch video. <br><br>
 [![Go to see Source Program](http://img.youtube.com/vi/iJtrl_2z5_A/0.jpg)](https://youtu.be/iJtrl_2z5_A)
 
 # 1. 프로젝트 명
@@ -140,9 +140,7 @@ Click below image to watch video! <br><br>
 4) 5초 동안 ok 또는 cancel 버튼을 누르지 않으면 결제가 취소되며 장바구니가 초기화된다.
 
 
-## 시연
+## 시연 영상
 
-
-
-Click below image to watch video! <br><br>
+아래 이미지를 클릭하면 유튜브 영상으로 확인할 수 있다. <br><br>
 [![Go to see Source Program](http://img.youtube.com/vi/iJtrl_2z5_A/0.jpg)](https://youtu.be/iJtrl_2z5_A) 
