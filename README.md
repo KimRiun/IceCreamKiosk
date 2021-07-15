@@ -68,6 +68,7 @@ The icream folder is located in the same location as the icecream_kiosk_package.
 
 4) If you do not press the ok or cancel button for 5 seconds, the payment will be canceled and the shopping basket will be initialized.
 
+5) If you press the payment button when the shopping cart is empty, the shopping cart will be notified that it is empty.
 
 ## Demonstration
 Click below image to watch video. <br><br>
@@ -139,6 +140,8 @@ Click below image to watch video. <br><br>
 3) cancel 버튼을 눌러 이전 구매 상황으로 다시 되돌아간다.
 
 4) 5초 동안 ok 또는 cancel 버튼을 누르지 않으면 결제가 취소되며 장바구니가 초기화된다.
+
+5) 장바구니가 비었을 때 결제하기 버튼을 누르면, 장바구니가 비어있음을 알린다. 
 
 
 ## 시연 영상
